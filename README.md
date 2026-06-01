@@ -114,8 +114,13 @@ dammi il codice completo / just give me the full code
    ```
 2. Reference the skill in your Claude Code session or `CLAUDE.md`:
    ```
-   Use the brain-freeze skill from ~/.claude/skills/brain-freeze/SKILL.md
+   /brain-freeze (easy, medium or hard) and then your prompt
    ```
+   or just:
+   ```
+   brain-freeze (easy, medium or hard) and then your prompt
+   ```
+   
 
 ---
 
