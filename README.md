@@ -110,7 +110,7 @@ dammi il codice completo / just give me the full code
 
 1. Clone this repository into your skills directory:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/brain-freeze.git ~/.claude/skills/brain-freeze
+   git clone https://github.com/FRancesco0004/Brain-freeze.git ~/.claude/skills/brain-freeze
    ```
 2. Reference the skill in your Claude Code session or `CLAUDE.md`:
    ```
